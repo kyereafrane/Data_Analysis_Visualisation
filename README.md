@@ -5,9 +5,10 @@ Project details steps taken to analyse three datasets to gain relevant insights 
 
 <b> VLOOKUP | Teamwork | Strategy | Project Planning | Data Understanding | Data Modeling | Data Analysis | Storytelling | Data Visualization | Presentations | Communication | Public Speaking </b> 
 
-<h2>Tool Used</h2>
+<h2>Tools Used</h2>
 
-- <b>Microsoft Excel</b> 
+- <b>Microsoft Microsoft Excel</b>
+- <b>Microsoft Power Point</b> 
 
 <h2>Environment Used </h2>
 

@@ -1,6 +1,8 @@
 # Data_Analysis_&_Visualisation
 Project details steps taken to analyse three datasets to gain relevant insights and present findings visually as a Data Analyst. The process involves cleaning and modeling the data by deleting or hiding empty cells and identifying the relevant columns to work with based on the project objective. It further combines the datasets using vlookup technique by identifying relational columns and matching them together. After validating and observation the relavant data is analysed based on paterns and trends to acquire insights on the top five performing categories. The relevant concise information is visualised in powerpoint and presentation to the client through a consultation meeting.
 
+#### [<h2>Certificate of Completion</h2>](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_pu8TfLfGd9fZo75DR_1683623970640_completion_certificate.pdf)
+
 <h2>Skills Developed</h2>
 
 <b> VLOOKUP | Teamwork | Strategy | Project Planning | Data Understanding | Data Modeling | Data Analysis | Storytelling | Data Visualization | Presentations | Communication | Public Speaking </b> 
